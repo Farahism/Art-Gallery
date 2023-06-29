@@ -12,5 +12,7 @@ Rabab Alakash   (pages of the paintings)
 Ghadah Saeed    (comments page)
 
 Fatemah Alsaihati (bidding page)
+
+you can find the sql database 
 ---------
-you can find the sql database as "argalla.pdf" "argalla.sql" 
+as "argalla.pdf" "argalla.sql" 
